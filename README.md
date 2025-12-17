@@ -1,5 +1,7 @@
 ## EventEz
-<img src="./favicon.ico" alt="EventEz" width="55" />
+<a href="https://eventezpvt.netlify.app">
+    <img src="./favicon.ico" alt="EventEz" width="55" />
+</a>
 
 ---
 
