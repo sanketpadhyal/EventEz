@@ -1,5 +1,5 @@
 ## EventEz
-<img src="./logo.png" alt="EventEz" width="55" />
+<img src="./favicon.ico" alt="EventEz" width="55" />
 
 ---
 
