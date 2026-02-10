@@ -72,6 +72,11 @@ It is **not affiliated with any institution** at this stage.
 
 ---
 
+### 📅 Project Information
+Created: Dec 17, 2025
+
+---
+
 ## 👨‍💻 Developer
 
 **Sanket Padhyal**  
