@@ -6,7 +6,7 @@
 ---
 
 ### 🚧 Project Status
-**EventEz is currently under active development and will be completed soon..**  
+**Project is under deep hold and will be continued after a team formation..**  
 Features are being built step by step with a focus on performance, clean UI, and real-world usability for college environments.
 
 This repository represents an evolving product, not a finished one.
